@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "1.5",
+    "cleanup_duration": 30.0,
+    "commit": "61ed1405d751f37a8ad27430bce24be599028b45",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 3.0,
+    "grain_polygons": [
+        "bHgyNlRwcFpCVUlrQUI4QUl3QWdBQ0lBSUFBaEFDRUFJQUFpQUNBQUl3QWZBQ1FBSHdBbEFCOEFKZ0FmQUNjQUh3QW9BQjhBS1FBZ0FDb0FJQUFyQUNFQUxBQWlBQ3dBSXdBdEFDUUFMUUFsQUMwQUpnQXRBQ2NBTFFBb0FDMEFLUUFzQUNvQUxBQXJBQ3dBTEFBckFDMEFLZ0F1QUNrQUxnQW9BQzRBSndBdkFDWUFMd0FsQUM4QUpBQXVBQ01BTFFBaUFDMEFJUUFzQUNBQUt3QWdBQ29BSHdBcEFCOEFLQUFmQUNjQUh3QW1BQjhBSlFBZkFBPT0=",
+        "bHgyNlRwcFpCVUlrQUI4QUl3QWdBQ0lBSUFBaEFDRUFJQUFpQUNBQUl3QWZBQ1FBSHdBbEFCOEFKZ0FmQUNjQUh3QW9BQjhBS1FBZ0FDb0FJQUFyQUNFQUxBQWlBQ3dBSXdBdEFDUUFMUUFsQUMwQUpnQXRBQ2NBTFFBb0FDMEFLUUFzQUNvQUxBQXJBQ3dBTEFBckFDMEFLZ0F1QUNrQUxnQW9BQzRBSndBdkFDWUFMd0FsQUM4QUpBQXVBQ01BTFFBaUFDMEFJUUFzQUNBQUt3QWdBQ29BSHdBcEFCOEFLQUFmQUNjQUh3QW1BQjhBSlFBZkFBPT0=",
+        "bHgyNlRwcFpCVUlsQUNBQUpBQWhBQ01BSVFBaUFDSUFJUUFqQUNFQUpBQWdBQ1VBSUFBbUFDQUFKd0FoQUNnQUlRQXBBQ0VBS2dBaUFDb0FJd0FyQUNRQUt3QWxBQ3NBSmdBckFDY0FLd0FvQUNzQUtRQXFBQ29BS2dBckFDa0FMQUFvQUMwQUp3QXRBQ1lBTFFBbEFDMEFKQUFzQUNNQUxBQWlBQ3NBSVFBcUFDRUFLUUFnQUNnQUlBQW5BQ0FBSmdBZ0FBPT0=",
+        "bHgyNlRwcFpCVUlsQUNBQUpBQWhBQ01BSVFBaUFDSUFJUUFqQUNFQUpBQWdBQ1VBSUFBbUFDQUFKd0FoQUNnQUlRQXBBQ0VBS2dBaUFDb0FJd0FyQUNRQUt3QWxBQ3NBSmdBckFDY0FLd0FvQUNzQUtRQXFBQ29BS2dBckFDa0FMQUFvQUMwQUp3QXRBQ1lBTFFBbEFDMEFKQUFzQUNNQUxBQWlBQ3NBSVFBcUFDRUFLUUFnQUNnQUlBQW5BQ0FBSmdBZ0FBPT0="
+    ],
+    "load_holder": "221-hole",
+    "load_name": "C0053",
+    "measured_response": "",
+    "pattern": "dragonflypeakpattern_br1-221-hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "105",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "requested_output": "",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
