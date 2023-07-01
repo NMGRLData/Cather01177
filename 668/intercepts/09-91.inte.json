@@ -1,97 +1,93 @@
 {
     "Ar36": {
-        "error": 0.0030748845806247847,
+        "error": 0.003074884580624785,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "linear",
         "fn": 15,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 15,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.02352556398420201
+        "value": 0.023525563984202014
     },
     "Ar37": {
-        "error": 0.053466280290551206,
+        "error": 0.06656565016290118,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
-        "fn": 14,
-        "include_baseline_error": false,
-        "n": 15,
-        "outlier_excluded": [
-            9
-        ],
-        "reviewed": true,
-        "user_excluded": [],
-        "value": 0.022816324016128042
-    },
-    "Ar38": {
-        "error": 0.03825852133335037,
-        "error_type": "SEM",
-        "filter_outliers_dict": {
-            "filter_outliers": true,
-            "iterations": 1,
-            "std_devs": 2,
-            "use_iqr_filtering": false,
-            "use_standard_deviation_filtering": false
-        },
-        "fit": "Linear",
+        "fit": "linear",
         "fn": 15,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 15,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.34241449179406536
+        "value": 0.011957579274061752
     },
-    "Ar39": {
-        "error": 0.07079440543355629,
+    "Ar38": {
+        "error": 0.038258521333350386,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
-        "fn": 14,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 15,
+        "include_baseline_error": true,
         "n": 15,
-        "outlier_excluded": [
-            5
-        ],
+        "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 12.381732713324233
+        "value": 0.34241449179406547
     },
-    "Ar40": {
-        "error": 1.0608638977346896,
+    "Ar39": {
+        "error": 0.08442163344043478,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "linear",
         "fn": 15,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
+        "n": 15,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 12.413879444159264
+    },
+    "Ar40": {
+        "error": 1.0608638977346898,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "linear",
+        "fn": 15,
+        "include_baseline_error": true,
         "n": 15,
         "outlier_excluded": [],
         "reviewed": true,
